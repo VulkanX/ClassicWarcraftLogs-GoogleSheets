@@ -1,0 +1,3 @@
+#Ignoring my Test Data
+test-*
+package.json
